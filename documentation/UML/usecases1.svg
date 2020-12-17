@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="888px" preserveAspectRatio="none" style="width:1034px;height:888px;" version="1.1" viewBox="0 0 1034 888" width="1034px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f19xkz3ql3er9t" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
+        </filter>
+    </defs>
+    <g>
+        <!--MD5=[975d7fda8cf98ff1a26ca528bf10cecf]
+cluster App-->
+        <rect fill="#FFFFFF" filter="url(#f19xkz3ql3er9t)" height="869" style="stroke:#000000;stroke-width:1.5;" width="615" x="143.5" y="7" /><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27" x="437.5" y="23.5332">App</text>
+        <ellipse cx="277.0408" cy="63.2082" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="86.5408" ry="19.7082" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="130" x="212.0408" y="66.9367">start practice routine</text>
+        <ellipse cx="276.7802" cy="140.056" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="98.2802" ry="22.056" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="157" x="198.2802" y="143.7846">practice specific exercise</text>
+        <ellipse cx="277.2427" cy="214.1485" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="73.7427" ry="17.1485" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="225.2427" y="218.6651">use metronome</text>
+        <ellipse cx="277.0109" cy="447.0022" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="73.0109" ry="17.0022" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="226.0109" y="451.5188">create exercise</text>
+        <ellipse cx="277.1965" cy="374.2393" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="91.6965" ry="20.7393" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="142" x="206.1965" y="377.9678">create practice routine</text>
+        <ellipse cx="626.9736" cy="229.9947" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="115.4736" ry="25.4947" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="195" x="529.4736" y="233.7232">schedule practice (in calendar)</text>
+        <ellipse cx="276.9763" cy="597.0953" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="75.9763" ry="17.5953" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="222.0467" y="601.5957">create future gig</text>
+        <ellipse cx="276.8167" cy="291.8633" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="117.3167" ry="25.8633" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="199" x="177.3167" y="295.5919">create practice schedule for gig</text>
+        <ellipse cx="277.113" cy="521.8226" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="99.613" ry="22.3226" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="197.113" y="525.5511">update exercise progress</text>
+        <ellipse cx="276.8554" cy="675.7711" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="116.8554" ry="25.7711" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="198" x="177.8554" y="679.4996">see exercise progress overview</text>
+        <ellipse cx="276.9339" cy="763.0868" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="115.9339" ry="25.5868" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="196" x="178.9339" y="766.8153">see practice progress overview</text>
+        <ellipse cx="277.1203" cy="841.8241" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="77.1203" ry="17.8241" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="107" x="221.2783" y="846.1856">see practice time</text>
+        <!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user-->
+        <ellipse cx="20" cy="415" fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;" />
+        <path d="M20,423 L20,450 M7,431 L33,431 M20,450 L7,465 M20,450 L33,465 " fill="none" filter="url(#f19xkz3ql3er9t)" style="stroke:#A80036;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="6" y="485.0332">user</text>
+        <!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db-->
+        <path d="M805.5,437.5 C805.5,427.5 839.5,427.5 839.5,427.5 C839.5,427.5 873.5,427.5 873.5,437.5 L873.5,464.1094 C873.5,474.1094 839.5,474.1094 839.5,474.1094 C839.5,474.1094 805.5,474.1094 805.5,464.1094 L805.5,437.5 " fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" style="stroke:#000000;stroke-width:1.5;" />
+        <path d="M805.5,437.5 C805.5,447.5 839.5,447.5 839.5,447.5 C839.5,447.5 873.5,447.5 873.5,437.5 " fill="none" style="stroke:#000000;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="815.5" y="466.0332">storage</text>
+        <!--MD5=[a1bcc5dfa9a2ffc8f4c80b0858fe135c]
+entity cal-->
+        <path d="M944.2792,293.7223 C947.4027,288.5824 952.1997,287.8882 955.7782,293.2227 C957.6783,288.2609 961.4762,286.8906 965.808,290.3141 C969.385,285.1456 973.3889,283.8797 977.6832,289.5266 C981.7874,284.8775 985.4968,285.4444 988.5991,290.6379 C993.932,286.3334 998.1141,286.6607 1001.0071,293.3834 C1004.1073,288.17 1009.7144,288.629 1012.7054,293.5099 C1023.3258,293.5203 1026.0893,300.8154 1022.0588,309.4323 C1027.6398,319.0038 1023.5501,326.0214 1012.4149,325.6565 C1010.2504,330.2548 1004.991,331.0092 1001.8004,326.9086 C998.5747,333.8523 992.2524,333.9967 988.9116,327.0151 C986.4269,332.2668 981.192,332.9324 978.4065,327.3055 C975.1307,332.836 971.4133,333.0854 967.1259,328.4252 C963.375,332.8442 958.4403,333.4812 955.8118,327.2344 C952.005,331.9688 945.876,332.3805 943.487,325.7031 C932.2445,325.367 929.5062,320.0854 934.5575,310.3021 C929.8377,301.28 933.6795,293.7616 944.2792,293.7223 " fill="#FEFECE" filter="url(#f19xkz3ql3er9t)" style="stroke:#000000;stroke-width:1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="55" x="949.5" y="314.5332">calendar</text>
+        <!--MD5=[137524e369fe3a1e0fb0cf168ff44521]
+link newPrac to schedPrac-->
+        <path d="M331.19,357.47 C351.2,350.92 374.05,343.03 394.5,335 C457.24,310.34 527.53,277.73 574.02,255.43 " fill="none" id="newPrac-to-schedPrac" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;" />
+        <polygon fill="#A80036" points="578.73,253.17,568.886,253.4788,574.2269,255.3429,572.3627,260.6838,578.73,253.17" style="stroke:#A80036;stroke-width:1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="425.5" y="296.4951">«include»</text>
+        <!--MD5=[265c6a19fa8c41f08802a6234e4608b8]
+link gigPracSched to schedPrac-->
+        <path d="M340.58,270.06 C358.21,263.42 377.27,255.81 394.5,248 C408.26,241.76 409.86,235.74 424.5,232 C452.62,224.82 483.67,222.09 512.8,221.67 " fill="none" id="gigPracSched-to-schedPrac" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;" />
+        <polygon fill="#A80036" points="517.84,221.62,508.7949,217.7231,512.8403,221.6771,508.8863,225.7226,517.84,221.62" style="stroke:#A80036;stroke-width:1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="425.5" y="220.4951">«include»</text>
+        <!--MD5=[fe4fb4e663c381ccea28a8fe44e272d6]
+link user to practiceStart-->
+        <path d="M21.39,405.32 C24.52,331.19 42.56,176.99 135.5,100 C153.18,85.36 176.04,76.45 198.17,71.05 " fill="none" id="user-practiceStart" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[b96efe456b3366369d7f95e5982a1905]
+link user to practiceExc-->
+        <path d="M26.4,405.1 C36.48,345.04 64.07,235.5 135.5,179 C151.98,165.97 172.54,157.28 192.81,151.5 " fill="none" id="user-practiceExc" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[7677813c9ab37049da9d35a41b171763]
+link user to metronome-->
+        <path d="M33.61,405.48 C49.71,359.71 82.08,287.37 135.5,248 C156.21,232.74 182.86,224.25 207.37,219.55 " fill="none" id="user-metronome" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[994d4a3d4eba42f06e0fcae0138a87a7]
+link user to newExc-->
+        <path d="M34.71,447 C66.06,447 144.81,447 203.88,447 " fill="none" id="user-newExc" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[929cfde1543960c9deeb18350c996173]
+link user to newPrac-->
+        <path d="M34.52,437.38 C42.82,431.87 53.87,425.23 64.5,421 C107.66,403.83 158.4,392.28 199.36,384.94 " fill="none" id="user-newPrac" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[a5b0c69d02180213d6648d11cae04f16]
+link user to updateExcProg-->
+        <path d="M34.74,451.1 C56.23,457.51 99.1,470.28 135.5,481 C161.58,488.68 190.41,497.1 215.12,504.3 " fill="none" id="user-updateExcProg" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[fed6a61a64ce0496156658ced15a33b5]
+link user to seeExcProg-->
+        <path d="M34.52,483.76 C51.73,525.58 85.37,593.09 135.5,632 C150.85,643.91 169.46,652.63 188.06,659 " fill="none" id="user-seeExcProg" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[4de99bef5cf18ed8ca30b4eb38400dd8]
+link user to seePracProg-->
+        <path d="M27.25,488.87 C38.35,548.5 67.14,657.47 135.5,719 C149.65,731.74 167.47,740.79 185.61,747.22 " fill="none" id="user-seePracProg" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[0208b5038e802c99b8fe59288faddd88]
+link user to seePracTime-->
+        <path d="M21.31,488.66 C24.26,564.09 41.96,723.16 135.5,806 C154.16,822.53 179.4,831.66 203.34,836.64 " fill="none" id="user-seePracTime" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[8f35393eddb9f1e683276dfedf72c7ea]
+link user to newGig-->
+        <path d="M34.59,466.07 C53.99,491.84 92.12,537.4 135.5,562 C158.35,574.96 185.96,583.17 210.63,588.35 " fill="none" id="user-newGig" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[17e059175671b5c669b9121abdfca32e]
+link user to gigPracSched-->
+        <path d="M34.69,428.5 C54.2,403.52 92.46,359.43 135.5,336 C154.36,325.74 175.97,317.47 196.49,311 " fill="none" id="user-gigPracSched" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[db9def5618cf2faf49ab2eb0a5416ab7]
+link newExc to db-->
+        <path d="M350.13,447.51 C472.68,448.39 716.89,450.13 805.45,450.76 " fill="none" id="newExc-db" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[e3a48172cf6c87c327a677ce8e84c322]
+link newPrac to db-->
+        <path d="M361,382.27 C458.21,392.02 624.09,408.8 766.5,424 C770.5,424.43 771.6,424 775.5,425 C785.47,427.56 795.94,431.38 805.42,435.31 " fill="none" id="newPrac-db" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[5ee60ebfedb0b8ccba4cb8bc9cc7d006]
+link updateExcProg to db-->
+        <path d="M364.28,511.08 C463.5,498.53 631.26,477.29 775.5,459 C785.23,457.77 795.82,456.42 805.48,455.2 " fill="none" id="updateExcProg-db" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[0f64c6c92c9cd822c9930671d2c458e5]
+link schedPrac to cal-->
+        <path d="M722.92,244.35 C776.68,253.43 844.89,266.56 904.5,283 C914.3,285.7 924.68,289.13 934.39,292.61 " fill="none" id="schedPrac-cal" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[eb3f629813d462569fa0e10d1c85cc43]
+link newGig to cal-->
+        <path d="M348.62,602.95 C468.16,609.31 713,605.95 873.5,492 C929.03,452.58 958.12,373.1 969.78,333.13 " fill="none" id="newGig-cal" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[3a951d8f09568398510151c5d6249bb4]
+link gigPracSched to cal-->
+        <path d="M394.04,294.83 C552.79,298.69 829.87,305.44 934.45,307.99 " fill="none" id="gigPracSched-cal" style="stroke:#A80036;stroke-width:1.0;" />
+        <!--MD5=[3903d6d679edfd053f00f7a95f395f3e]
+@startuml
+
+left to right direction
+
+'Actors'
+actor user as user
+database "storage" as db
+cloud "calendar" as cal
+
+'Usecases'
+rectangle "App" {
+  usecase "start practice routine" as practiceStart
+  usecase "practice specific exercise" as practiceExc
+  usecase "use metronome" as metronome
+  usecase "create exercise" as newExc
+  usecase "create practice routine" as newPrac
+  usecase "schedule practice (in calendar)" as schedPrac
+  usecase "create future gig" as newGig
+  usecase "create practice schedule for gig" as gigPracSched
+  usecase "update exercise progress" as updateExcProg
+  usecase "see exercise progress overview" as seeExcProg
+  usecase "see practice progress overview" as seePracProg
+  usecase "see practice time" as seePracTime
+
+  'Interactions System - System'
+  newPrac .-> schedPrac : <<include>>
+  gigPracSched .-> schedPrac : <<include>>
+}
+
+
+'Interactions Actor - System'
+user - - - practiceStart
+user - - - practiceExc
+user - - - metronome
+user - - - newExc
+user - - - newPrac
+'user - - -> schedPrac'
+user - - - updateExcProg
+user - - - seeExcProg
+user - - - seePracProg
+user - - - seePracTime
+user - - - newGig
+user - - - gigPracSched
+
+newExc - - - db
+newPrac - - - db
+updateExcProg - - - db
+
+schedPrac - - - cal
+newGig - - - cal
+gigPracSched - - - cal
+
+@enduml
+
+@startuml
+
+left to right direction
+
+actor user as user
+database "storage" as db
+cloud "calendar" as cal
+
+rectangle "App" {
+  usecase "start practice routine" as practiceStart
+  usecase "practice specific exercise" as practiceExc
+  usecase "use metronome" as metronome
+  usecase "create exercise" as newExc
+  usecase "create practice routine" as newPrac
+  usecase "schedule practice (in calendar)" as schedPrac
+  usecase "create future gig" as newGig
+  usecase "create practice schedule for gig" as gigPracSched
+  usecase "update exercise progress" as updateExcProg
+  usecase "see exercise progress overview" as seeExcProg
+  usecase "see practice progress overview" as seePracProg
+  usecase "see practice time" as seePracTime
+
+  newPrac .-> schedPrac : <<include>>
+  gigPracSched .-> schedPrac : <<include>>
+}
+
+
+user - - - practiceStart
+user - - - practiceExc
+user - - - metronome
+user - - - newExc
+user - - - newPrac
+user - - - updateExcProg
+user - - - seeExcProg
+user - - - seePracProg
+user - - - seePracTime
+user - - - newGig
+user - - - gigPracSched
+
+newExc - - - db
+newPrac - - - db
+updateExcProg - - - db
+
+schedPrac - - - cal
+newGig - - - cal
+gigPracSched - - - cal
+
+@enduml
+
+PlantUML version 1.2020.23(Sun Dec 13 20:14:58 CET 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+-->
+    </g>
+</svg>

@@ -1,0 +1,53 @@
+@startuml
+
+left to right direction
+
+'Actors'
+actor user as user
+database "storage" as db
+cloud "calendar" as cal
+
+'Usecases'
+rectangle "App" {
+  usecase "start practice routine" as practiceStart
+  usecase "practice specific exercise" as practiceExc
+  usecase "use metronome" as metronome
+  usecase "create exercise" as newExc
+  usecase "create practice routine" as newPrac
+  usecase "schedule practice (in calendar)" as schedPrac
+  usecase "create future gig" as newGig
+  usecase "create practice schedule for gig" as gigPracSched
+  usecase "update exercise progress" as updateExcProg
+  usecase "see exercise progress overview" as seeExcProg
+  usecase "see practice progress overview" as seePracProg
+  usecase "see practice time" as seePracTime
+
+  'Interactions System - System'
+  newPrac .-> schedPrac : <<include>>
+  gigPracSched .-> schedPrac : <<include>>
+}
+
+
+'Interactions Actor - System'
+user --- practiceStart
+user --- practiceExc
+user --- metronome
+user --- newExc
+user --- newPrac
+'user ---> schedPrac'
+user --- updateExcProg
+user --- seeExcProg
+user --- seePracProg
+user --- seePracTime
+user --- newGig
+user --- gigPracSched
+
+newExc --- db
+newPrac --- db
+updateExcProg --- db
+
+schedPrac --- cal
+newGig --- cal
+gigPracSched --- cal
+
+@enduml

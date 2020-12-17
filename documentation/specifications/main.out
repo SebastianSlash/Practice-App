@@ -1,0 +1,15 @@
+\BOOKMARK [0][-]{chapter.1}{Overview}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Purpose and Goal of the Application}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Users and Target Groups}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Product Specifications}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Assumptions and Dependencies}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Target Platform}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{Operating System}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.3}{Input Devices}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.4}{Output Devices}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.5}{Language}{section.2.1}% 10
+\BOOKMARK [1][-]{section.2.2}{Functional Specifications}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Non-functional Specifications}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Use Case Analysis}{}% 13
+\BOOKMARK [1][-]{section.3.1}{User Stories}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Use Cases}{chapter.3}% 15
